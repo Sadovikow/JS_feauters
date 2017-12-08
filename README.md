@@ -6,3 +6,6 @@ JS и JQuery фичи
 > <a href="/FeedbackForm-AJAX/">FeedbackForm-AJAX</a> - Форма обратной связи (BitrixAPI+Ajax+jQuery)
 
 > <a href="/validate/">Validate</a> - Валидация форм с добавлением класса error
+
+> <a href="/TxtRotate/">TxtRotate</a> - Эффект печатающегося текста
+
