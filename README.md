@@ -10,3 +10,7 @@ JS и JQuery фичи
 > <a href="/TxtRotate/">TxtRotate</a> - Эффект печатающегося текста
 
 > <a href="/ImageArrows/">ImageArrows</a> - Простое переключение большой картинки по клику на маленькие картинки или на стрелочки
+
+> <a href="/keydownESC/">keydownESC</a> - Действие на нажитие кнопки ESCAPE
+
+> <a href="/money-format/">money-format</a> - Формат цены в инпуте
