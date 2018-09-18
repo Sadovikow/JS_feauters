@@ -14,3 +14,5 @@ JS и JQuery фичи
 > <a href="/keydownESC/">keydownESC</a> - Действие на нажитие кнопки ESCAPE
 
 > <a href="/money-format/">money-format</a> - Формат цены в инпуте
+
+> <a href="/clickOnLabel.js">clickOnLabel</a> - При нажатии на label нажимается сам инпут, чтобы не целиться. Очень удобно
