@@ -1,7 +1,7 @@
 # JS_feauters
 JS и JQuery фичи
 
-> <a href="/stepanimation.js">stepanimation.js</a> - Пошаговая анимация. Закрытие и открытие выпадающего меню в два шага. Закрытие при нажатии на любую область
+> <a href="/stepanimation.js">stepanimation.js</a> - Пошаговая анимация. Закрытие и открытие выпадающего меню в два шага. Закрытие при нажатии на любую область (пример на www.hunter.com.ru)
 
 > <a href="/validate/">Validate</a> - Валидация форм с добавлением класса error
 
